@@ -2,6 +2,12 @@
  * 
  * Modification of the Basic Sparkfun MMA8452 Library to support hardware interrupts
  * 
+ * ModMMA8452Q
+ * Chip McClelland (chip@seeinsights.com)
+ * Published on July 15th, 2021
+ * 
+ * Modified Library at: https://github.com/chipmc/ModMMA8452Q
+ * 
  * Original Library Information:
  * 
  * SparkFunMMA8452Q.cpp

@@ -1,4 +1,4 @@
-### SparkFun MMA8452Q 3-Axis Accelerometer Particle Library
+### Chip's Modification of the Basic SparkFun MMA8452Q 3-Axis Accelerometer Particle Library
 
 A firmware library for the SparkFun's [MMA8452Q 3-Axis Accelerometer](https://www.sparkfun.com/products/12756).
 
@@ -7,6 +7,8 @@ About
 -------------------
 
 The MMA8452Q is an I2C-based 3-axis accelerometer. It has user selectable full scales of ±2g/±4g/±8g with high pass filtered data as well as non filtered data available real-time. Unique features include programmable interrupts, tap-detection, and orientation detection.
+
+I have updated this library to support hardware interupts for tap detection. 
 
 Repository Contents
 -------------------
